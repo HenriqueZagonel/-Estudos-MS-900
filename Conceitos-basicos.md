@@ -13,4 +13,20 @@ Computação em nuvem, ou simplemente "nuvem", refere-se à entrega de serviçõ
 - **Measured service**: Sistemas de nuvem automaticamente controlam e otimizam o uso de recursos através de uma capacidade de medição, fornecendo transparência tanto para o provedor quanto para o consumidor dos serviços utilizados.
 
 ![Descrição da Imagem](cloud_computing_wide_resized.png)
+## Tipos de serviços
+### Infrastructure as a Service (IaaS):
+  - **Descrição**: Fornece infraestrutura virtualizada pela internet. Inclui recursos como servidores, armazenamento e redes.
+  - **Exemplos**: Microsoft Azure, Amazon Web Services (AWS) EC2.
+  - **Uso Comum**: Hospedagem de sites, desenvolvimento e testes, análise de dados, backup e recuperação.
 
+## Platform as a Service (PaaS):
+  - **Descrição**: Fornece uma plataforma e ambiente para desenvolver, testar e gerenciar aplicativos. Inclui infraestrutura e também ferramentas de desenvolvimento.
+  - **Exemplos**: Microsoft Azure App Services, Google App Engine.
+  - **Uso Comum**: Desenvolvimento e implantação rápida de aplicativos, análise de dados em tempo real, serviços de middleware.
+
+##Software as a Service (SaaS):
+  - **Descrição**: Fornece software por meio da internet. Usuários acessam aplicações diretamente pela web, sem necessidade de instalação.
+  - **Exemplos**: Microsoft Office 365, Google Workspace.
+  - **Uso Comum**: E-mail, gerenciamento de relacionamento com clientes (CRM), aplicativos empresariais e colaboração.
+
+    
